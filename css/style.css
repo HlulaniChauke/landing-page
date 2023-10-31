@@ -6,7 +6,6 @@
 
 .main{
     border: 3px solid black;
-    background-color: aquamarine;
     display: flex;
     flex-direction: column;
     width: 650px;
@@ -16,7 +15,6 @@
 .section-one{
     display:flex;
     flex-direction: column;
-    border: 3px solid blueviolet;
     color:  #f9faf8;
     background: #1f2937; 
 }
@@ -24,7 +22,6 @@
 .header-top{
     display:flex;
     flex-direction: row;
-    border: 3px solid rgb(226, 43, 183);
     justify-content: space-between;
     color:  #f9faf8;
     background: #1f2937; 
@@ -33,15 +30,13 @@
 .header-bottom{
     display:flex;
     flex-direction: row;
-    border: 3px solid blue;
     align-items: flex-end;
     background: #1f2937;
 }
 
 .nav{
     display:flex;
-    flex-direction: row;
-    border: 3px solid greenyellow;  
+    flex-direction: row;  
     color:  #f9faf8;
     background: #1f2937; 
 }
@@ -60,15 +55,13 @@
 .hero-one{
     display:flex;
     flex-direction: column;
-    border: 3px solid red; 
     color:  #f9faf8;
     background: #1f2937; 
 }
 
 .hero-two{
     display:flex;
-    flex-direction: column;
-    border: 3px solid red; 
+    flex-direction: column; 
     color:  #f9faf8;
     background: #1f2937;
     align-items: stretch; 
@@ -95,7 +88,6 @@
 .section-two{
     display:flex;
     flex-direction: column;
-    border: 3px solid blueviolet;
     color:  #1f2937;
     background: white;
     align-items: center; 
@@ -104,7 +96,6 @@
 .cards{
     display:flex;
     flex-direction: row;
-    border: 3px solid blue;
     color:  #1f2937;
     background: white; 
     align-content: space-between; 
@@ -118,7 +109,6 @@
 .section-three{
     display:flex;
     flex-direction: column;
-    border: 3px solid blueviolet;
     color:  #1f2937;
     background: #e5e7eb;
     align-items: center; 
@@ -132,7 +122,6 @@
 }
 .section-four{
     display:flex;
-    border: 3px solid blueviolet;
     background: #e5e7eb;
     justify-content: center;
 }
